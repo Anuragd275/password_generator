@@ -19,3 +19,8 @@ document.getElementById("btn").onclick = function () {
  }
 
 
+ let c = document.getElementById('c')
+
+if(c){
+    console.log("AaA hu")
+}
